@@ -1,0 +1,5 @@
+multer is used for uploading images
+Why async ? every interaction with database in async in nature
+
+JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
+Middleware provides tools developers can use to create, expose and manage APIs for their applications
